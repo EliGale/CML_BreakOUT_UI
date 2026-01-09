@@ -34,8 +34,7 @@ The Run button will execute the commands run and UI of the breakout tool. This i
 
 5. Final step, click on the enable button of the desire active lab, to enable the SSH access.
 
+## DEMO
+![How_to_use_1](https://github.com/EliGale/CML_BreakOUT_UI/blob/main/assets/2026-01-08%2014.10.47-new3.gif)
 
-![How_to_use_1](https://github.com/EliGale/CML_BreakOUT_UI/blob/main/assets/2026-01-08%2014.10.47-new.gif?raw=true)
-
-
-![How_to_use_2](https://github.com/EliGale/CML_BreakOUT_UI/blob/main/assets/2026-01-08%2014.10.47-new2.gif))
+![How_to_use_2](https://github.com/EliGale/CML_BreakOUT_UI/blob/main/assets/2026-01-08%2014.10.47-new2.gif)
